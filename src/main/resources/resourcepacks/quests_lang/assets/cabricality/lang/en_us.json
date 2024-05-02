@@ -873,7 +873,7 @@
 
   "contraption.cabricality.43.title": "Operators",
   "contraption.cabricality.43.subtitle": "Contraption 43",
-  "contraption.cabricality.43.content": "Without the operators, a data center would not be able to combine digits into others. Provide your Calculators with an automated supply of any operator they end up requiring.",
+  "contraption.cabricality.43.content": "Without the operators, a data center would not be able to combine digits into others. Provide your Calculators (Mechanical Crafters) with an automated supply of any operator they end up requiring.",
 
   "contraption.cabricality.44.1.subtitle": "Contraption 44-1",
   "contraption.cabricality.44.1.content": "As one of the two available digits, &lThrees&r can be cast from unprocessed logic. Together with the &lEight&r and available Operators, your Calculators will have to create the remaining digits from &l0 to 9&r in equal amounts.\n\nThis casting process can quickly become a bottleneck, for most running calculations depend on the numbers generated here. Make sure things move fluently.",
