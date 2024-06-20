@@ -53,7 +53,5 @@
     "minecraft": "1.20.1",
     "cloth-config": "*",
     "equator": ">=2.6.0"
-  },
-  "suggests": {
   }
 }
