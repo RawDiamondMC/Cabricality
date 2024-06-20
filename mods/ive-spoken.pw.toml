@@ -1,13 +1,13 @@
 name = "I've Spoken"
-filename = "ive_spoken-1.20-2.0.0.jar"
+filename = "ivespoken-2.1.0-fabric1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OidSa416/versions/zku8aGns/ive_spoken-1.20-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/OidSa416/versions/N1k1TgUo/ivespoken-2.1.0-fabric1.20.jar"
 hash-format = "sha1"
-hash = "7a22140338487ee1956a38e809ec143cfc65aa7b"
+hash = "ae39ea51190b5b95b522c6c18e5ae3581effa24c"
 
 [update]
 [update.modrinth]
 mod-id = "OidSa416"
-version = "zku8aGns"
+version = "N1k1TgUo"
