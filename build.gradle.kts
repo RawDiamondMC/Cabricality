@@ -114,20 +114,15 @@ dependencies {
     modApi(libs.modmenu) { exclude(group = "net.fabricmc.fabric-api") }
     modApi(libs.cloth.config) { exclude(group = "net.fabricmc.fabric-api") }
     modApi(libs.rei) { exclude(group = "net.fabricmc.fabric-api") }
+    modApi(libs.night.auto.config) { exclude(group = "net.fabricmc.fabric-api") }
 
     // Included
-    modApi(libs.tags.binder)?.let {
-        include(it)
-    }
-    modApi(libs.brrp)?.let {
-        include(it)
-    }
-    api(libs.exp4j)?.let {
-        include(it)
-    }
-    api(libs.night.auto.config)?.let {
-        include(it)
-    }
+    modApi(libs.tags.binder) { exclude(group = "net.fabricmc.fabric-api") }
+    include(libs.tags.binder)
+    modApi(libs.brrp) { exclude(group = "net.fabricmc.fabric-api") }
+    include(libs.brrp)
+    api(libs.exp4j)
+    include(libs.exp4j)
 
     // Development
     api("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
