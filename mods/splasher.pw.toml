@@ -1,13 +1,13 @@
 name = "Splasher!"
-filename = "splasher-6.1.0-fabric1.20.jar"
+filename = "splasher-6.2.0-fabric1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4yIZUuyx/versions/uL5uQolp/splasher-6.1.0-fabric1.20.jar"
+url = "https://cdn.modrinth.com/data/4yIZUuyx/versions/gtoNK8dP/splasher-6.2.0-fabric1.20.jar"
 hash-format = "sha1"
-hash = "d4af99a54b8b64b3cc8e0510bfc57816e6d6f34c"
+hash = "b1eef0ec9983ff1155b54b2b5a6e1990f73fe9fb"
 
 [update]
 [update.modrinth]
 mod-id = "4yIZUuyx"
-version = "uL5uQolp"
+version = "gtoNK8dP"

@@ -40,6 +40,7 @@ rip = "1.0.0-1.20.x"
 tags-binder = "0.3"
 brrp = "1.0.1-mc1.20.1-fabric"
 exp4j = "0.4.8"
+night-auto-config = "1.0.3-fabric1.20"
 
 [libraries]
 minecraft = { group = "com.mojang", name = "minecraft", version.ref = "minecraft" }
@@ -80,6 +81,7 @@ rip = { group = "com.github.HO-Artisan", name = "RecipeInProgramming", version.r
 tags-binder = { group = "com.github.DM-Earth", name = "Tags-Binder", version.ref = "tags-binder" }
 brrp = { group = "maven.modrinth", name = "brrp", version.ref = "brrp" }
 exp4j = { group = "net.objecthunter", name = "exp4j", version.ref = "exp4j" }
+night-auto-config = { group = "com.github.KessokuTeaTime", name = "Night-Auto-Config", version.ref = "night-auto-config"}
 
 [bundles]
 # Implemented Mods

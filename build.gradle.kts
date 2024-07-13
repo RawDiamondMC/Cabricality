@@ -2,7 +2,7 @@ plugins {
     base
     java
     alias(libs.plugins.fabric.loom)
-    id("org.jetbrains.kotlin.jvm") version "2.0.20-Beta1"
+    id("org.jetbrains.kotlin.jvm") version "2.0.20-Beta2"
 }
 
 group = libs.versions.maven.group.get()
@@ -123,6 +123,9 @@ dependencies {
         include(it)
     }
     api(libs.exp4j)?.let {
+        include(it)
+    }
+    api(libs.night.auto.config)?.let {
         include(it)
     }
 

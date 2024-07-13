@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "73ca8e414d5370acc3a2d6eda4f4b7f1c273c78b0f5545a8c42425dec18e22f0"
+hash = "0c9015aa5398140bff02d2c2f8f837e5b903ac53ca7c2496afb98e30cf08285b"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "5f3a9bccd6ca727d4fcd8105320e636429c7f3c642c3a3e7689b0df25d52ff65"
+hash = "0f770aa873be6fd23b6c78a8805bd7aa4d049fb173afad535f16ac6216232e77"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/edgeless-cs.pw.toml"
-hash = "71e6244c015ace1bced37a9a29f539ab20d3baf0de5eddf83f20c4455d32dc25"
+hash = "c484b27e1c7af33f97cd8a2de843823f76a721171bff796c00ab0809595942cf"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/faded-widgets.pw.toml"
-hash = "5d8d0a6275db0f9ef98e84b756726736ccef4ea11170e4d82b7048416134c220"
+hash = "eeea78d6bdc7f236aef6ea05a2be10646e5ab64d8a1c310feb66a5c7362962b5"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/ive-spoken.pw.toml"
-hash = "20e036f1f205ffe46c21b06e8fd3574559756d09e793cb496766ac9cf17b114d"
+hash = "ec3cc0296e021c793e020382d9ef59463f6ed82052a94cd094050e1ab5bd3da5"
 metafile = true
 
 [[files]]
@@ -407,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
 file = "mods/splasher.pw.toml"
-hash = "7c7abe828c08587152da0bd2af5dbba5ff896c2dc24695c71d994a384df335bb"
+hash = "a982b8fd5d0f0768dc220577334496b96b4a601e96e58cdb701909545b135836"
 metafile = true
 
 [[files]]
