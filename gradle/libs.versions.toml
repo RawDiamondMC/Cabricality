@@ -1,12 +1,12 @@
 [versions]
 maven-group = "dm.earth"
 archives-name = "cabricality"
-modpack = "1.0-alpha.1"
+modpack = "1.0.0-alpha.1"
 
 # The latest versions are available at https://lambdaurora.dev/tools/import-quilt.html
 minecraft = "1.20.1"
 quilt-mappings = "1.20.1+build.23"
-fabric-loader = "0.15.11"
+fabric-loader = "0.16.0"
 
 fabric-api = "0.92.2+1.20.1"
 architectury-api = "9.2.14"
