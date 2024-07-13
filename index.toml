@@ -271,6 +271,11 @@ hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
@@ -373,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
+metafile = true
+
+[[files]]
+file = "mods/night-auto-config.pw.toml"
+hash = "b314333b464ab56c95ef1685fca85f8031b68bc6cc151a9a881488d6f0b1c1a6"
 metafile = true
 
 [[files]]
